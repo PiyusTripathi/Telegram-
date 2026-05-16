@@ -30,8 +30,8 @@ from telegram.error import TelegramError
 #  ✏️  CONFIGURE HERE
 # ══════════════════════════════════════════════════════════════════
 
-BOT_TOKEN       = "8570409688:AAEcguUu4bsK_N1FaehxjjQsknCA-Ejpwn8"   # 👈 paste your token
-ADMIN_IDS       = []                       # e.g. [123456789]
+BOT_TOKEN       = ""   
+ADMIN_IDS       = []                    
 MAX_FILESIZE_MB = 50
 DOWNLOAD_DIR    = Path("downloads")
 DOWNLOAD_DIR.mkdir(exist_ok=True)
